@@ -7,7 +7,7 @@ MIN_WIDTH = 80
 MIN_HEIGHT = 80
 
 # Allowed error for considering an object crossing the line
-OFFSET = 6
+OFFSET = 9
 
 # Y-coordinate of the counting line
 LINE_POSITION = 550
